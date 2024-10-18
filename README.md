@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @SoftwareEngineer2010
 - I would like to remain anonymous now
 - 👀 I’m interested in coding, programming, Robotics, Movies and Mythology stories
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on web developments specifically in front end.
-- I am currently in Highschool
+- 🌱 I’m currently attempting to finish learning Javascript
+- 💞️ I am currently available for Collaborations and I am fine with free or paying jobs.
+- I am currently in Highschool so not workforce
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am from America but moved to Canada in 2012 Now I am in Brampton, Ontario
 
