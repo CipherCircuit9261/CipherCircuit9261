@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SoftwareEngineer2010
-- I would like to remain anonymous now
-- 👀 I’m interested in coding, programming, Robotics, Movies and Mythology stories
+- My Name is Aprameyan krishnan Anantha
+  - 👀 I’m interested in coding, programming, Robotics, Movies and Mythology stories
 - 🌱 I’m currently attempting to finish learning Javascript
 - 💞️ I am currently available for Collaborations and I am fine with free or paying jobs.
 - I am currently in Highschool so not workforce
