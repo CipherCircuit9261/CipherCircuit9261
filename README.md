@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CipherCircuit9261
 - I will be anoynymous for now
  - 👀 I’m interested in coding, programming, Robotics, Movies and Mythology stories
-- 🌱 I’m currently attempting to finish learning Javascript
+- 🌱 I’m currently attempting to finish learning Java
 - 💞️ I am currently available for Collaborations and I am fine with free or paying jobs.
 - I am currently in Highschool so not workforce
 - 😄 Pronouns: He/Him
